@@ -1,0 +1,6 @@
+name: SoupSignsAPI
+version: '${project.version}'
+main: com.cahrypt.me.soupsignsapi.SoupSignsAPI
+api-version: 1.19
+authors: [ cahrypt ]
+description: API for soup signs plugin
